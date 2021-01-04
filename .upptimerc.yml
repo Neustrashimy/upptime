@@ -32,7 +32,7 @@ status-website:
   introMessage: Powered by [upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
