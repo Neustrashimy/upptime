@@ -4,19 +4,19 @@
     "url": "$SITE_NAGOYADON_ORIGIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nagoyadon-jp-origin",
-    "status": "down",
-    "uptime": "7.22%",
-    "uptimeDay": "7.22%",
-    "uptimeWeek": "7.22%",
-    "uptimeMonth": "7.22%",
-    "uptimeYear": "7.22%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "9.02%",
+    "uptimeDay": "9.02%",
+    "uptimeWeek": "9.02%",
+    "uptimeMonth": "9.02%",
+    "uptimeYear": "9.02%",
+    "time": 501,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SITE_OBJEKTIV2_ORIGIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "md-objektiv2-net-origin",
-    "status": "down",
-    "uptime": "6.43%",
-    "uptimeDay": "6.43%",
-    "uptimeWeek": "6.43%",
-    "uptimeMonth": "6.43%",
-    "uptimeYear": "6.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.47%",
+    "uptimeDay": "3.47%",
+    "uptimeWeek": "3.47%",
+    "uptimeMonth": "3.47%",
+    "uptimeYear": "3.47%",
+    "time": 852,
+    "timeDay": 852,
+    "timeWeek": 852,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 4
     }
   }
 ]
