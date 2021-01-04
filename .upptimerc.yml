@@ -11,7 +11,16 @@ sites:
   - name: md.objektiv2.net Origin
     url: $SITE_OBJEKTIV2_ORIGIN
     __dangerous__insecure: true
-    
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
