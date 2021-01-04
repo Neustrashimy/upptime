@@ -4,11 +4,14 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Nagoyadon.jp
-    url: https://nagoyadon.jp
-  - name: md.objektiv2.net
-    url: https://md.objektiv2.net/web/timelines/home
-
+  - name: Nagoyadon.jp Origin
+    url: $SITE_NAGOYADON_ORIGIN
+    __dangerous__disable_verify_host: true
+    
+  - name: md.objektiv2.net Origin
+    url: $SITE_OBJEKTIV2_ORIGIN
+    __dangerous__disable_verify_host: true
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
