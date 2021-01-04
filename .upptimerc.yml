@@ -6,11 +6,11 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Nagoyadon.jp Origin
     url: $SITE_NAGOYADON_ORIGIN
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
     
   - name: md.objektiv2.net Origin
     url: $SITE_OBJEKTIV2_ORIGIN
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
