@@ -22,17 +22,17 @@
     "url": "$SITE_OBJEKTIV2_ORIGIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "md-objektiv2-net-origin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 522,
-    "timeWeek": 1294,
-    "timeMonth": 1124,
-    "timeYear": 1203,
+    "time": 1201,
+    "timeDay": 754,
+    "timeWeek": 1255,
+    "timeMonth": 1120,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2021-01-04": 4
     }
