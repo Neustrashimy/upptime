@@ -4,7 +4,7 @@
     "url": "$SITE_NAGOYADON_ORIGIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nagoyadon-jp-origin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 592,
     "timeMonth": 590,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-17": 0
+    }
   },
   {
     "name": "md.objektiv2.net Origin",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "md-objektiv2-net-origin",
     "status": "down",
-    "uptime": "97.16%",
+    "uptime": "97.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.17%",
-    "uptimeMonth": "87.61%",
-    "uptimeYear": "97.16%",
+    "uptimeWeek": "45.22%",
+    "uptimeMonth": "87.39%",
+    "uptimeYear": "97.11%",
     "time": 1150,
     "timeDay": 308,
     "timeWeek": 561,
     "timeMonth": 1034,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2021-05-17": 60,
+      "2021-05-17": 156,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
