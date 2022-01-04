@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nagoyadon-jp-origin",
     "status": "down",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 465,
     "timeDay": 308,
-    "timeWeek": 387,
+    "timeWeek": 388,
     "timeMonth": 364,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -42,8 +42,7 @@
       "2021-05-16": 1440,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
-      "2021-05-13": 1047,
-      "2021-01-04": 4
+      "2021-05-13": 1047
     }
   }
 ]
