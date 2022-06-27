@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 478,
-    "timeWeek": 394,
-    "timeMonth": 399,
+    "time": 422,
+    "timeDay": 462,
+    "timeWeek": 413,
+    "timeMonth": 398,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "md-objektiv2-net-origin",
     "status": "down",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 381,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   }
 ]
