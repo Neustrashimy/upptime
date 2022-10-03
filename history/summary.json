@@ -2,7 +2,7 @@
   {
     "name": "Nagoyadon.jp Origin",
     "url": "$SITE_NAGOYADON_ORIGIN",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nagoyadon-jp-origin",
     "status": "down",
     "uptime": "99.71%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 311,
-    "timeWeek": 429,
-    "timeMonth": 420,
-    "timeYear": 387,
+    "timeDay": 396,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
     "name": "md.objektiv2.net Origin",
     "url": "$SITE_OBJEKTIV2_ORIGIN",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "md-objektiv2-net-origin",
     "status": "down",
     "uptime": "99.11%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
+    "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 380,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
