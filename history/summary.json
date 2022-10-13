@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nagoyadon-jp-origin",
     "status": "down",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 390,
-    "timeWeek": 452,
-    "timeMonth": 426,
-    "timeYear": 387,
+    "timeDay": 308,
+    "timeWeek": 435,
+    "timeMonth": 419,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 373,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   }
 ]
