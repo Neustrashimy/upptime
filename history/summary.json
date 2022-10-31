@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 477,
-    "timeWeek": 439,
-    "timeMonth": 427,
-    "timeYear": 390,
+    "timeDay": 410,
+    "timeWeek": 431,
+    "timeMonth": 426,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "md-objektiv2-net-origin",
     "status": "down",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 375,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   }
 ]
